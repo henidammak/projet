@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700,900&display=swap');
+@import '~mdb-ui-kit/css/mdb.min.css';
+@media (min-width: 1025px) {
+	.h-custom {
+	height: 100vh !important;
+	}
+	}
+
+
+#formi{
+	text-align: center;
+}
+#bg{
+	background-color: #8fc4b7ab;
+	opacity: 0.9;
+}
+#selecti{
+	margin: 10px;
+	border-color: #8fc4b7;
+	border-radius: 5px;
+	border-width: 2px;
+}
+h3 {
+	padding-bottom: 30px;
+}
+h6{
+	text-align: end;
+	padding-top: 20px;
+}
+#btn{
+
+align-items: center;
+
+}
+.button{
+	text-align: center;
+}
+button[type="radio"] {
+	display: none;
+  }
+#bn{
+	background-color: #8fc4b7;
+}
+.title{
+    font-family: 'Courier New', Courier, monospace;
+}
+.ima{
+	background-image: url('image/Capt.png');
+	/* opacity: 0.1; */
+}
+.out{
+	color: #8fc4b7;
+}
+
